@@ -1,5 +1,5 @@
 # 4gspeed là gì?
-:mag: 4gspeed là dịch vụ vpn máy chủ toàn cầu chất lượng cao , với hàng nghìn người dùng sử dụng trên khắp thế giới :sparkles:
+4gspeed là dịch vụ vpn máy chủ toàn cầu chất lượng cao , với hàng nghìn người dùng sử dụng trên khắp thế giới
 
 ## Tại sao nên dùng dịch vụ vpn của 4gspeed?
 dịch vụ vpn của 4gspeed có những tính năng cao cấp sau
