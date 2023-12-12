@@ -20,3 +20,4 @@ Các dịch vụ vpn tương tự
 - [4ghatde](https://4gspeed.me/4ghatde.html)
 
 Hãy thử ngay 4gspeed ngay hôm nay bạn nhé
+php artisan optimize:clear
